@@ -38,17 +38,14 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Daaaiii/interactive-rating-component-main)
-- Live Site URL: [Add live site URL here](https://daaaiii.github.io/interactive-rating-component-main/)
+- Solution URL: [Repository](https://github.com/Daaaiii/interactive-rating-component-main)
+- Live Site URL: [Github Pages](https://daaaiii.github.io/interactive-rating-component-main/)
 
 ## My process
 
 ### Built with
 
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
-- CSS
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 
 ### What I learned
 
